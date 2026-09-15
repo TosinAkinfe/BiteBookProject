@@ -1,0 +1,136 @@
+Minutes Template
+
+Date: 06/11/25
+Not In Attendance: N/A
+ 
+What’s Being Done: 
+<Pavan>: Discussing final project idea
+<Damyan>: Discussing project idea
+<Tosin>: Discussed what our project should be
+<Alwaleed>: finalising what the project should be.
+ 
+Date: 20/01/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Name ideas 
+<Damyan>: Researching similar apps for ideas and inspiration
+<Tosin>: Researched similar apps for the project over the christmas break
+<Alwaleed>: Looked at what colors to implement on our design.
+ 
+Date: 27/01/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Lofi Prototyping (Drawings)
+<Damyan>: Lofi prototyping.
+<Tosin>: Decided on the name, done use case diagrams and started working on the design of the UI (Lofi prototyping)
+<Alwaleed>: frontend backend pairs (Me and Damyan frontend) (Pavan and Tosin)
+
+Date: 03/02/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Started making the database with MongoDB and giving access
+<Damyan>: Lofi Prototyping.
+<Tosin>: decided on XP programming, and started to do the backend. 
+<Alwaleed>: Lofi Prototyping
+
+Date: 10/02/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Started making the backend scripts 
+<Damyan>: Lofi prototyping.
+<Tosin>: Started on the backend scripts 
+<Alwaleed>: Lofi Prototyping.
+
+Date: 17/02/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Continued with backend scripts and making poster prototype and making logos
+<Damyan>: Lofi prototyping and working on poster prototype, and making logos
+<Tosin>: Done more backend scripts and made a poster prototype
+<Alwaleed>: Lofi prototyping and started abstraction.
+
+Date: 24/02/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Continued with backend and fixing bugs and finalising poster
+<Damyan>: Starting coding REACT and finalising poster
+<Tosin>: continued with the backend and discussed more features to be done and we finalized the poster
+<Alwaleed>: Started coding REACT and continued writing/finalising the abstraction.
+ 
+Date: 03/03/26 (Poster fair week)
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Poster fair 👍
+<Damyan>: attended the poster fair.
+<Tosin>: Poster fair preperation 
+<Alwaleed>: attended the poster fair.
+
+Date: 15/04/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Polishing backend and fixing errors
+<Damyan>: Finalising REACT and fixing bugs
+<Tosin>: Fixing errors and adding more features to the backend 
+<Alwaleed>: Check with REACT
+ 
+Date: 22/04/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Started on integrating the frontend and backend
+<Damyan>: Technical report split with Alwaleed and started.
+<Tosin>: Helping integrate the frontend and backend and done more backend like the cloudinary
+<Alwaleed>: Technical report split with Damyan and started.
+
+Date: 29/04/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Integration finished and got work ui
+<Damyan>: continuing the report.
+<Tosin>: We finished the integration and the UI was functional
+<Alwaleed>: user stories and continuing the report.
+
+Date: 06/05/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Adding security
+<Damyan>: continuing the report and added appendices.
+<Tosin>: Added more features and started email verification
+<Alwaleed>: continuing the report and added appendices.
+
+Date: 13/05/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Adding admin account features
+<Damyan>: Sequence diagram
+<Tosin>: Fixed the email bug and added email verification
+<Alwaleed>: Class diagram.
+
+Date: 20/05/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Started system testing
+<Damyan>: Report done and finalised the sections.
+<Tosin>: Started doing tests 
+<Alwaleed>: Report done and finalised the sections.
+
+Date: 27/05/26
+Not In Attendance: N/A
+ 
+What’s Been Done since the Previous Meeting: 
+<Pavan>: Finished coding/polishing system and making video demo.
+<Damyan>: Formatting and reviewing while adding the table of content.
+<Tosin>: Fixed all bugs and error 
+<Alwaleed>: Formatting and reviewing the technical report.
